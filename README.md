@@ -1,4 +1,4 @@
-# python, C++
+# python
 ## Development period : 2021.06 ~
 
 ## the field of study
