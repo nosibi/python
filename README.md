@@ -1,5 +1,9 @@
 # python, C++
-2021.06 ~
-Data analyztion and visualization
-Deep Learning
-Game Development
+## Development period : 2021.06 ~
+
+## the field of study
+### Data analysis and visualization
+
+### Deep Learning
+
+### Game Development
